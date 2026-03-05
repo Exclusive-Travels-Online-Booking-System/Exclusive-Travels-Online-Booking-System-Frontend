@@ -317,13 +317,13 @@ Create the `Hero` component featuring a full-screen banner with search functiona
 
 ---
 
-## Issue #009 — Build Destinations Page & Component
+## Issue #009 — Build Destinations Page & Component/ DONE
 
 **Labels:** `type: feature` `priority: high` `area: frontend` `status: todo`  
 **Milestone:** M2 — Core Features  
 **Assignee:** Sachini Fernando (Scheduling Manager)  
 **Estimate:** 6 hours
-
+S
 ### Description
 
 Implement the Destinations page that showcases Sri Lanka's tourism spots with filter and sort capabilities.
