@@ -159,7 +159,7 @@ TourismTreasure/
 
 ---
 
-## Issue #003 — Configure Environment Variables & Secrets Management /DONE
+## Issue #003 — Configure Environment Variables & Secrets Management  
 
 **Labels:** `type: task` `priority: critical` `area: devops` `area: firebase` `status: todo`  
 **Milestone:** M1 — Project Setup  
@@ -198,7 +198,7 @@ VITE_API_BASE_URL=http://localhost:5000
 
 ---
 
-## Issue #004 — Set Up Firebase Project & Firestore Database
+## Issue #004 — Set Up Firebase Project & Firestore Database /Done
 
 **Labels:** `type: task` `priority: critical` `area: firebase` `status: todo`  
 **Milestone:** M1 — Project Setup  
@@ -228,7 +228,7 @@ Create the Firebase project, enable Firestore, configure authentication, and con
 
 ---
 
-## Issue #005 — Install & Configure Frontend Dependencies
+## Issue #005 — Install & Configure Frontend Dependencies /Done
 
 **Labels:** `type: task` `priority: high` `area: frontend` `status: todo`  
 **Milestone:** M1 — Project Setup  
@@ -380,7 +380,7 @@ Build `AirTickets.tsx` — a search-and-display page for air travel options, inc
 
 ---
 
-## Issue #012 — Build Car Rentals Page /DONE
+## Issue #012 — Build Car Rentals Page /DONEGIT 
 
 **Labels:** `type: feature` `priority: medium` `area: frontend` `status: todo`  
 **Milestone:** M2 — Core Features  
