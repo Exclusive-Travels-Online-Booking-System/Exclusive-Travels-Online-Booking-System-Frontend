@@ -380,7 +380,7 @@ Build `AirTickets.tsx` — a search-and-display page for air travel options, inc
 
 ---
 
-## Issue #012 — Build Car Rentals Page
+## Issue #012 — Build Car Rentals Page /DONE
 
 **Labels:** `type: feature` `priority: medium` `area: frontend` `status: todo`  
 **Milestone:** M2 — Core Features  
