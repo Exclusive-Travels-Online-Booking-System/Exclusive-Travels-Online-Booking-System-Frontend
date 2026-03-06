@@ -274,7 +274,8 @@ Ensure the backend Express server installs correctly, loads environment variable
 
 ---
 
-## Issue #007 — Build Navigation Bar Component
+## Issue #007 — Build Navigation Bar Component /DONE
+
 
 **Labels:** `type: feature` `priority: high` `area: frontend` `area: ui/ux` `status: todo`  
 **Milestone:** M2 — Core Features  
